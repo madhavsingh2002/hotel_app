@@ -63,7 +63,8 @@ class OnBoardingPage extends StatelessWidget {
                         color: const Color(0xFF803434),
                         borderRadius: BorderRadius.circular(20.0),
                       ),
-                      child: const Row(
+                      child: 
+                      const Row(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Text(
